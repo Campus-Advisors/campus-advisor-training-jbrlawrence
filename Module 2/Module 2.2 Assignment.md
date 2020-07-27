@@ -1,4 +1,4 @@
-# J Ben R Lawrence
+# J Benjamin R Lawrence
 
 # Module 2.2 Assignment
 
